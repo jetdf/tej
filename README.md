@@ -39,7 +39,7 @@
 </head>
 <body>
   <header>
-    <h1>Anna Müller</h1>
+    <h1>Tej Prakash Bhandari</h1>
     <p>Freelance Hydropower Design Engineer</p>
     <p><em>Specializing in small-scale hydropower systems, feasibility studies, and CAD design</em></p>
   </header>
