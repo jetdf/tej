@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Online CV and Portfolio of Anna Müller, Freelance Hydropower Design Engineer.">
-  <title>Anna Müller | Hydropower Design Engineer</title>
+  <meta name="description" content="Online CV and Portfolio of Tej Prakash Bhandari, Freelance Hydropower Design Engineer.">
+  <title>Tej Prakash Bhandari | Hydropower Design Engineer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@
 
   <div class="section about">
     <h2>About Me</h2>
-    <p>I’m a freelance hydropower engineer with 5+ years of experience in turbine selection, civil layouts, flow modeling, and regulatory documentation. I work with clients across Europe to help design sustainable and cost-effective small-scale hydro systems.</p>
+    <p>I’m a freelance hydropower engineer with ~ 4 years of experience in turbine selection, civil layouts, flow modeling, and regulatory documentation. I work with clients across Europe to help design sustainable and cost-effective small-scale hydro systems.</p>
   </div>
 
   <div class="section skills">
@@ -82,8 +82,8 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:anna.muller.design@gmail.com">anna.muller.design@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
-    <p>Location: Vienna, Austria (Remote Projects Available)</p>
-    <p><a href="Anna-Muller-CV.pdf" download>Download PDF Resume</a> (optional link)</p>
+    <p>Location: Graz, Austria (Remote Projects Available)</p>
+    <p><a href="Tej-CV.pdf" download>Download PDF Resume</a> (optional link)</p>
   </div>
 </body>
 </html>
