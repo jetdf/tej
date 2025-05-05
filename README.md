@@ -73,14 +73,14 @@
   <div class="section education">
     <h2>Education & Certifications</h2>
     <ul>
-      <li>M.Sc. Renewable Energy Engineering, TU Wien</li>
-      <li>Certified Energy Consultant – EUREM</li>
+      <li>M.Sc. Geotechnical and Hydraulic Engineering, TU Graz</li>
+      <li> Energy Consultant</li>
     </ul>
   </div>
 
   <div class="section contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:anna.muller.design@gmail.com">anna.muller.design@gmail.com</a></p>
+    <p>Email: <a href="mailto:tejbhandari52@gmail.com">anna.muller.design@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
     <p>Location: Graz, Austria (Remote Projects Available)</p>
     <p><a href="Tej-CV.pdf" download>Download PDF Resume</a> (optional link)</p>
